@@ -1,0 +1,40 @@
+#menu {
+	background: #e8e8e8;
+	border-color: #e8e8e8;
+	min-height: 40px;
+	/*padding-top: 40px;*/
+}
+#menu .nav > li > a{
+	color: #000000;
+	text-shadow:none;
+	font-size: 14px;
+}
+#menu .nav > li > a:hover{
+	color: #f16d52;
+}
+#menu .dropdown-menu li > a:hover {background: #e8e8e8; color: #f16d52}
+#menu a.see-all {color: #000000;}
+#menu .see-all:hover, #menu .see-all:focus {
+	background: #e8e8e8;
+	color: #f16d52;
+}
+
+#top{
+	margin-bottom: 0;
+	height: 20px;
+	position: fixed;
+	z-index: 10;
+	width: 100%;
+	background-color: rgba(238, 238, 238, 0.85);
+}
+
+#logo{
+	display: inline-block;
+	float: left;
+	margin: 0;
+}
+#logo img{max-height: 36px;}
+
+#content_header .owl-controls{
+	margin-top: -40px;
+}

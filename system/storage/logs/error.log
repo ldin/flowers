@@ -1,0 +1,29 @@
+2016-01-30 13:58:34 - PHP Notice:  Undefined variable: og_url in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 22
+2016-01-30 13:58:34 - PHP Notice:  Undefined variable: og_image in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 23
+2016-01-30 13:58:34 - PHP Notice:  Undefined variable: og_url in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 84
+2016-01-30 13:58:35 - PHP Notice:  Undefined variable: og_url in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 22
+2016-01-30 13:58:35 - PHP Notice:  Undefined variable: og_image in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 23
+2016-01-30 13:58:35 - PHP Notice:  Undefined variable: og_url in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 84
+2016-01-30 14:47:47 - PHP Notice:  A non well formed numeric value encountered in /home/ldinka/projects/flowers/www/system/library/image.php on line 105
+2016-01-30 14:47:47 - PHP Notice:  A non well formed numeric value encountered in /home/ldinka/projects/flowers/www/system/library/image.php on line 116
+2016-01-30 14:47:47 - PHP Notice:  A non well formed numeric value encountered in /home/ldinka/projects/flowers/www/system/library/image.php on line 105
+2016-01-30 14:47:47 - PHP Notice:  A non well formed numeric value encountered in /home/ldinka/projects/flowers/www/system/library/image.php on line 116
+2016-01-30 15:04:51 - PHP Notice:  A non well formed numeric value encountered in /home/ldinka/projects/flowers/www/system/library/image.php on line 105
+2016-01-30 15:04:51 - PHP Notice:  A non well formed numeric value encountered in /home/ldinka/projects/flowers/www/system/library/image.php on line 116
+2016-01-30 15:04:51 - PHP Notice:  A non well formed numeric value encountered in /home/ldinka/projects/flowers/www/system/library/image.php on line 105
+2016-01-30 15:04:51 - PHP Notice:  A non well formed numeric value encountered in /home/ldinka/projects/flowers/www/system/library/image.php on line 116
+2016-01-30 20:56:17 - PHP Notice:  Undefined variable: modules in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 103
+2016-01-30 20:56:17 - PHP Warning:  Invalid argument supplied for foreach() in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 103
+2016-01-30 20:56:19 - PHP Notice:  Undefined variable: modules in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 103
+2016-01-30 20:56:19 - PHP Warning:  Invalid argument supplied for foreach() in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 103
+2016-01-30 20:58:20 - PHP Notice:  Undefined variable: modules in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 103
+2016-01-30 20:58:20 - PHP Warning:  Invalid argument supplied for foreach() in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 103
+2016-01-30 20:59:04 - PHP Notice:  Undefined variable: modules in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 103
+2016-01-30 20:59:04 - PHP Warning:  Invalid argument supplied for foreach() in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 103
+2016-02-01 15:03:18 - PHP Notice:  Undefined variable: content_top in /home/ldinka/projects/flowers/www/catalog/view/theme/default/template/common/header.tpl on line 103
+2016-02-01 15:36:59 - PHP Notice:  Undefined variable: text_column_header in /home/ldinka/projects/flowers/www/admin/view/template/design/layout_form.tpl on line 130
+2016-02-01 15:36:59 - PHP Notice:  Undefined variable: text_column_header in /home/ldinka/projects/flowers/www/admin/view/template/design/layout_form.tpl on line 130
+2016-02-01 15:36:59 - PHP Notice:  Undefined variable: text_column_header in /home/ldinka/projects/flowers/www/admin/view/template/design/layout_form.tpl on line 130
+2016-02-01 16:13:28 - PHP Notice:  Undefined variable: text_column_header in /home/ldinka/projects/flowers/www/admin/view/template/design/layout_form.tpl on line 130
+2016-02-01 16:13:28 - PHP Notice:  Undefined variable: text_column_header in /home/ldinka/projects/flowers/www/admin/view/template/design/layout_form.tpl on line 130
+2016-02-01 16:13:28 - PHP Notice:  Undefined variable: text_column_header in /home/ldinka/projects/flowers/www/admin/view/template/design/layout_form.tpl on line 130
