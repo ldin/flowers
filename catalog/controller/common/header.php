@@ -144,6 +144,7 @@ class ControllerCommonHeader extends Controller {
 		$data['currency'] = $this->load->controller('common/currency');
 		$data['search'] = $this->load->controller('common/search');
 		$data['cart'] = $this->load->controller('common/cart');
+		$data['fixnav'] = '';
 
 		// For page specific css
 		if (isset($this->request->get['route'])) {
@@ -173,10 +174,16 @@ class ControllerCommonHeader extends Controller {
 
 		$layout_id = 0;
 
+		if ($route == 'common/home') {
+			$data['fixnav'] = "fixnav";
+		}
+
 		if ($route == 'product/category' && isset($this->request->get['path'])) {
 			$this->load->model('catalog/category');
 
 			$path = explode('_', (string)$this->request->get['path']);
+
+			$data['fixnav'] = "fixnav";
 
 			$layout_id = $this->model_catalog_category->getCategoryLayoutId(end($path));
 		}

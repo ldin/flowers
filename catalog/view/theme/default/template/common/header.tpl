@@ -48,7 +48,7 @@
 <?php } ?>
 </head>
 <body class="<?php echo $class; ?>">
-<nav id="top">
+<nav id="top" class="<?php echo $fixnav; ?>">
   <div class="container">
     <div id="logo">
       <?php if ($logo) { ?>

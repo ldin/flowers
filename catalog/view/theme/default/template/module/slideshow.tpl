@@ -11,8 +11,9 @@
 </div>
 <script type="text/javascript"><!--
 $('#slideshow<?php echo $module; ?>').owlCarousel({
+    loop: true,
 	items: 6,
-	autoPlay: 3000,
+	autoPlay: 6000,
 	singleItem: true,
 	navigation: true,
 	navigationText: ['<i class="fa fa-chevron-left fa-5x"></i>', '<i class="fa fa-chevron-right fa-5x"></i>'],
